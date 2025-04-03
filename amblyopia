@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>弱視治療用めがね購入の店舗選びのポイント</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #f8f5ff;
+            color: #333;
+        }
+        .slide {
+            position: relative;
+            background: linear-gradient(135deg, #f0e6ff 0%, #f5f0ff 100%);
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+        .slide-title {
+            background: linear-gradient(90deg, #7e57c2 0%, #9575cd 100%);
+            color: white;
+            padding: 15px 25px;
+            font-weight: bold;
+            border-radius: 8px 8px 0 0;
+        }
+        .slide-content {
+            padding: 25px;
+        }
+        .point-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 4px solid #7e57c2;
+        }
+        .highlight {
+            color: #7e57c2;
+            font-weight: 700;
+        }
+        .moca-info {
+            background: rgba(126, 87, 194, 0.1);
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        .image-container {
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 15px 0;
+        }
+        .custom-list li {
+            margin-bottom: 10px;
+            position: relative;
+            padding-left: 25px;
+        }
+        .custom-list li:before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #7e57c2;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="p-6 mx-auto max-w-6xl">
+    <header class="mb-10 text-center">
+        <h1 class="text-4xl font-bold text-purple-800 mb-4">弱視治療用めがね購入の店舗選びのポイント</h1>
+        <p class="text-xl text-gray-600">お子様の視力を守るための重要なガイドライン</p>
+        <div class="mt-4 text-right">
+            <p class="text-purple-700 font-semibold">MOCA金剛店 監修</p>
+        </div>
+    </header>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            弱視治療用めがねの重要性
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <p class="mb-4">弱視は<span class="highlight">視力発達期（生後8歳頃まで）</span>に適切に治療を行わなければ、視力が完全に発達しないままとなってしまう可能性があります。</p>
+                    
+                    <div class="point-card">
+                        <h3 class="font-bold text-lg mb-2">治療の3つの柱</h3>
+                        <ul class="custom-list">
+                            <li>正確な屈折矯正（治療用めがね）</li>
+                            <li>遮閉療法（健眼遮蔽）</li>
+                            <li>視能訓練（視能訓練士によるトレーニング）</li>
+                        </ul>
+                    </div>
+                    
+                    <p class="mt-4">この中で最も基本となるのが<span class="highlight">適切な治療用めがねによる屈折矯正</span>です。治療用めがねの選び方が、弱視治療の成功率を大きく左右します。</p>
+                </div>
+                <div class="image-container">
+                    <img src="https://minamimegane.co.jp/wp-content/uploads/2024/11/3a053dbed4cafd459ef910136d48e1a4.jpg" alt="弱視治療用めがねを掛けた子供" class="w-full h-auto rounded-lg">
+                    <p class="text-center text-gray-600 text-sm mt-2">適切な治療用めがねは弱視治療の基本です</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            専門技術を持つメガネ店選びの重要性
+        </div>
+        <div class="slide-content">
+            <div class="point-card">
+                <h3 class="font-bold text-lg mb-2">専門店を選ぶ理由</h3>
+                <ul class="custom-list">
+                    <li>子どもの弱視治療には<span class="highlight">高い専門知識と技術</span>が必要</li>
+                    <li>国家資格「眼鏡作製技能士1級」保持者が在籍している店舗が望ましい</li>
+                    <li>眼科との連携が取れている店舗を選ぶことが重要</li>
+                    <li>子供メガネ製作の実績が豊富な店舗が安心</li>
+                </ul>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                <div>
+                    <p class="mb-4">弱視治療用めがねは、<span class="highlight">ファッションではなく医療機器</span>として考えるべきです。適切なめがね選びのためには、豊富な知識と経験を持つ専門店が不可欠です。</p>
+                    
+                    <div class="moca-info">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店の専門性</h4>
+                        <p>MOCA金剛店は<span class="highlight">眼科併設のメガネ専門店</span>として、弱視治療用めがねの豊富な実績があります。眼科医との連携のもと、お子様一人ひとりに最適な治療用めがねを提供しています。</p>
+                    </div>
+                </div>
+                
+                <div class="image-container">
+                    <img src="https://www.opt-moca.com/moca-cms/wp-content/uploads/2024/10/f4ff325a29936337ef4be02da639d3d9.jpg" alt="専門技術を持つスタッフ" class="w-full h-auto rounded-lg">
+                    <p class="text-center text-gray-600 text-sm mt-2">専門知識を持ったスタッフによる丁寧な対応</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            フィッティングの重要性
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <p class="mb-4">弱視眼鏡では、<span class="highlight">フィッティングが治療効果に直結</span>します。適切なフィッティングがされていないと、治療効果が十分に得られないだけでなく、装用感が悪くなり、お子様がめがねを嫌がる原因にもなります。</p>
+                    
+                    <div class="point-card">
+                        <h3 class="font-bold text-lg mb-2">適切なフィッティングのポイント</h3>
+                        <ul class="custom-list">
+                            <li>お子様の顔のサイズに正確に合わせること</li>
+                            <li>鼻パッド、耳当て、テンプルの長さなどの調整</li>
+                            <li>レンズの中心と瞳の中心を一致させる</li>
+                            <li>定期的なメンテナンスと調整が必要</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="image-container">
+                        <img src="https://minamimegane.co.jp/wp-content/uploads/2024/10/47e335eba815bb022412152ff6fe272e-580x387.jpg" alt="フィッティングの様子" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">お子様の顔に合った正確なフィッティング</p>
+                    </div>
+                    
+                    <div class="moca-info mt-4">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店のフィッティング</h4>
+                        <p>MOCA金剛店では、熟練したスタッフによる丁寧なフィッティングを行い、お子様に最適な装用感を提供しています。定期的な調整も無料で承っています。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            子供に合ったフレーム選び
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <p class="mb-4">治療用めがねは毎日長時間装用するため、<span class="highlight">お子様が気に入って進んで掛けたくなるフレーム</span>を選ぶことがとても重要です。</p>
+                    
+                    <div class="point-card">
+                        <h3 class="font-bold text-lg mb-2">フレーム選びのポイント</h3>
+                        <ul class="custom-list">
+                            <li>店員に弱視眼鏡が必要であることを伝え、適切なアドバイスをもらう</li>
+                            <li>その上で、お子様の好みを優先する</li>
+                            <li>日常生活に耐えられる強度のフレームを選ぶ</li>
+                            <li>お顔にぴったり合ったサイズを選ぶ</li>
+                            <li>カラーはお子様の好みを尊重する</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="image-container">
+                        <img src="https://minamimegane.co.jp/wp-content/uploads/2024/10/9813f5bd17b10e17dfc838937ae22b55.jpg" alt="子供向けフレーム" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">豊富なフレームから選べるラインナップ</p>
+                    </div>
+                    
+                    <div class="moca-info mt-4">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店のフレーム</h4>
+                        <p>MOCA金剛店では、子供用フレームを豊富に取り揃え、お子様の顔型やサイズに最適なフレームをご提案しています。人気ブランドからお手頃なフレームまで幅広い選択肢があります。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            治療に適したレンズの選択
+        </div>
+        <div class="slide-content">
+            <div class="point-card">
+                <h3 class="font-bold text-lg mb-2">理想的なレンズの条件</h3>
+                <ul class="custom-list">
+                    <li>お子様の屈折異常に正確に対応したレンズ度数</li>
+                    <li>薄くて軽いレンズ（特殊な薄型加工が重要）</li>
+                    <li>キズがつきにくい耐久性のある素材</li>
+                    <li>度数や症状に合わせた最適なレンズメーカーの選択</li>
+                </ul>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                <div>
+                    <p class="mb-4">弱視治療用レンズは、単に度数を合わせるだけでなく、<span class="highlight">特殊な薄型加工（オーダー加工）</span>を施すことで、より薄く、軽く、見やすいレンズを実現することが可能です。</p>
+                    
+                    <div class="image-container">
+                        <img src="https://minamimegane.co.jp/wp-content/uploads/2024/10/order-lens-580x387.jpg" alt="レンズのオーダー加工" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">レンズのオーダー加工イメージ</p>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="moca-info">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店のレンズ</h4>
+                        <p>MOCA金剛店では、国内トップレベルの複数のレンズメーカーを取り扱い、お子様の症状や特性に合わせて最適なレンズをご提案しています。独自のオーダー加工技術で、より薄く軽いレンズを実現します。</p>
+                    </div>
+                    
+                    <p class="mt-4">一般的なレンズではなく、<span class="highlight">弱視治療用に最適化されたレンズ</span>を選ぶことで、治療効果を最大限に高めることができます。専門店ならではの知識と技術で、お子様に最適なレンズをお選びします。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            弱視治療用めがねの補助金制度
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <p class="mb-4">弱視治療用めがねには<span class="highlight">保険適用と自治体からの補助金制度</span>があり、経済的負担を軽減することができます。</p>
+                    
+                    <div class="point-card">
+                        <h3 class="font-bold text-lg mb-2">補助金の条件</h3>
+                        <ul class="custom-list">
+                            <li>9歳未満のお子様が対象</li>
+                            <li>眼科医による弱視・斜視などの診断が必要</li>
+                            <li>上限金額：約40,492円（医療費助成制度による）</li>
+                            <li>補助金内であれば自己負担なしでめがね購入可能</li>
+                        </ul>
+                    </div>
+                    
+                    <p class="mt-4">補助金制度を活用することで、<span class="highlight">高品質なレンズやフレーム</span>を選択することが可能になります。質の高い治療用めがねを使用することで、治療効果も高まります。</p>
+                </div>
+                
+                <div>
+                    <div class="image-container">
+                        <img src="https://minamimegane.co.jp/wp-content/uploads/2024/11/bbcbe660f33d2a17095bc75f0a351f4d-580x387.jpg" alt="補助金制度" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">補助金制度を活用しためがね購入</p>
+                    </div>
+                    
+                    <div class="moca-info mt-4">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店の補助金サポート</h4>
+                        <p>MOCA金剛店では、補助金申請のお手伝いをしております。必要書類の準備から申請方法まで、スタッフが丁寧にサポートいたします。補助金内で高品質な治療用めがねをご提供することを心がけています。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            アフターケアの重要性
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <p class="mb-4">子どものめがねは<span class="highlight">定期的なメンテナンスが必須</span>です。フィッティングがずれたり、フレームやレンズが傷んだりすると、適切な治療効果が得られません。</p>
+                    
+                    <div class="point-card">
+                        <h3 class="font-bold text-lg mb-2">アフターケアのポイント</h3>
+                        <ul class="custom-list">
+                            <li>購入後の保証が充実しているか確認</li>
+                            <li>修理に持っていきやすい雰囲気の店舗</li>
+                            <li>修理を細かく対応してくれる技術力</li>
+                            <li>営業時間や定休日が少ない店舗が便利</li>
+                            <li>定期的な調整やメンテナンスが無料</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="image-container">
+                        <img src="https://minamimegane.co.jp/wp-content/uploads/2024/11/060529a116238cab4933b69a48f1c485.jpg" alt="アフターケアの様子" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">丁寧なアフターケア</p>
+                    </div>
+                    
+                    <div class="moca-info mt-4">
+                        <h4 class="font-bold text-lg mb-2">MOCA金剛店のアフターケア</h4>
+                        <p>MOCA金剛店では、弱視治療用めがねの購入後も安心の<span class="highlight">充実したアフターサポート</span>をご提供しています。定期的なフィッティング調整や修理対応、レンズ交換など、お子様の成長や治療経過に合わせたサポートを心がけています。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            MOCA金剛店のご紹介
+        </div>
+        <div class="slide-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <div class="image-container">
+                        <img src="https://i0.wp.com/www.opt-moca.com/moca-cms/wp-content/uploads/2024/06/a5a7a32579a5d8661f1aff28c22514bd.png" alt="MOCA金剛店外観" class="w-full h-auto rounded-lg">
+                        <p class="text-center text-gray-600 text-sm mt-2">MOCA金剛店</p>
+                    </div>
+                    
+                    <div class="point-card mt-4">
+                        <h3 class="font-bold text-lg mb-2">MOCA金剛店の特徴</h3>
+                        <ul class="custom-list">
+                            <li>眼科併設のメガネ・コンタクトレンズ専門店</li>
+                            <li>弱視治療用めがね製作の豊富な実績</li>
+                            <li>国家資格を持つ専門スタッフが多数在籍</li>
+                            <li>子供用フレームを豊富に取り揃え</li>
+                            <li>充実したアフターサポート体制</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="bg-white rounded-lg p-6 shadow-sm">
+                        <h3 class="font-bold text-lg mb-4 text-purple-800">店舗情報</h3>
+                        <p class="mb-2"><span class="font-semibold">店舗名:</span> MOCA金剛店</p>
+                        <p class="mb-2"><span class="font-semibold">住所:</span> 大阪府富田林市</p>
+                        <p class="mb-2"><span class="font-semibold">電話番号:</span> 0721-55-3188</p>
+                        <p class="mb-2"><span class="font-semibold">営業時間:</span> お電話でご確認ください</p>
+                        <p class="mb-6"><span class="font-semibold">ウェブサイト:</span> <a href="https://www.opt-moca.com/" class="text-purple-600 hover:underline">https://www.opt-moca.com/</a></p>
+                        
+                        <div class="bg-purple-50 p-4 rounded-lg">
+                            <h4 class="font-semibold text-purple-800 mb-2">ご予約・ご相談</h4>
+                            <p>弱視治療用めがねについてのご相談は、お電話またはウェブサイトからご予約ください。経験豊富なスタッフが丁寧にご対応いたします。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title text-xl">
+            まとめ：弱視治療用めがね選びの重要ポイント
+        </div>
+        <div class="slide-content">
+            <div class="point-card bg-purple-50">
+                <h3 class="font-bold text-lg mb-4 text-purple-800">弱視治療用めがね購入の店舗選びチェックリスト</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <ul class="custom-list">
+                        <li>専門技術を持つメガネ店を選ぶ</li>
+                        <li>眼科と連携が取れている店舗</li>
+                        <li>豊富な子ども用フレームの品揃え</li>
+                        <li>高品質なレンズの取り扱い</li>
+                    </ul>
+                    <ul class="custom-list">
+                        <li>補助金申請のサポート体制</li>
+                        <li>充実したアフターケア</li>
+                        <li>お子様と保護者が安心できる対応</li>
+                        <li>修理・調整が迅速にできる技術力</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <p class="mt-6 text-center text-lg">お子様の視力を守るための弱視治療用めがね。<br>専門店での適切な選択が、治療成功への第一歩です。</p>
+            
+            <div class="moca-info mt-6">
+                <h4 class="font-bold text-lg mb-2 text-center">MOCA金剛店へのお問い合わせ</h4>
+                <p class="text-center">弱視治療用めがねについてのご質問やご相談は、<br>お気軽にMOCA金剛店（0721-55-3188）までお問い合わせください。</p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="mt-10 mb-6 text-center text-gray-600">
+        <p>© 2025 MOCA金剛店 | 弱視治療用めがね専門店</p>
+        <p class="mt-2 text-sm">本資料は弱視治療用めがね購入に関する一般的な情報提供を目的としています。<br>実際の治療については必ず眼科医の指示に従ってください。</p>
+    </footer>
+</body>
+</html>
